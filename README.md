@@ -49,7 +49,7 @@ This project showcases how Excel-based analytics (Power Query, Power Pivot, and 
 - Integrated multiple data sources into a unified model.
 
 ### 🤝 Soft Skills:
-- Developed an **empathy-driven approach** to dashboard design.
+- Developed an **empathy-driven approach** to design reports.
 - Strengthened business understanding of **sales and finance metrics**.
 - Created intuitive, actionable reports tailored for decision-makers.
 - Applied a **systematic report development plan** for efficient delivery.
